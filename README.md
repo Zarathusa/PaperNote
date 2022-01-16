@@ -25,9 +25,7 @@
 
 ## Learning
 
-### NLP
-
-- [李宏毅NLP视频笔记](./learning/NLP/LiHongyi)
+- [NLP note](https://gitee.com/zarathusa/nlp-learning)
 
 ## Skill
 
