@@ -4,6 +4,15 @@
 
 - [顶会顶刊](./paper/README.md)
 - [2021 Paper Read Plan](./paper/2021/all_paper)
+- [2022 Paper Read Plan](./paper/2022/all_paper)
+
+## 2022 Paper Read
+
+### NLP
+
+#### 场景图
+
+- [视觉问答的场景图推理](./paper/2022/NLP/SceneGraphReasoningForVisualQuestionAnswering/)
 
 ## 2021 Paper Read
 
