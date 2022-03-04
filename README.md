@@ -10,6 +10,10 @@
 
 ### NLP
 
+#### 命名实体
+
+- [通过协同图网络利用词汇知识进行中文命名实体识别](./paper/2022/NLP/Leverage_Lexical_Knowledge_for_Chinese_Named_Entity_Recognition_via_Collaborative_Graph_Network/)
+
 #### 场景图
 
 - [视觉问答的场景图推理](./paper/2022/NLP/SceneGraphReasoningForVisualQuestionAnswering/)
