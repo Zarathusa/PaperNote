@@ -13,6 +13,7 @@
 #### 命名实体
 
 - [通过协同图网络利用词汇知识进行中文命名实体识别](./paper/2022/NLP/Leverage_Lexical_Knowledge_for_Chinese_Named_Entity_Recognition_via_Collaborative_Graph_Network/)
+- [使用BERT适配器的词典增强中文序列标记](./paper/2022/NLP/Lexicon_Enhanced_Chinese_Sequence_Labelling_Using_BERT_Adapter/)
 
 #### 场景图
 
