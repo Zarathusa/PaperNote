@@ -1,5 +1,7 @@
 # PaperNote
 
+[![](https://img.shields.io/badge/author-Zarathusa-brightgreen)](https://github.com/Zarathusa) [![](https://img.shields.io/badge/github-paper_note-orange)](https://github.com/Zarathusa/PaperNote)[![](https://img.shields.io/badge/gitee-paper_note-yellow)](https://gitee.com/zarathusa/paper-note)[![](https://img.shields.io/badge/csdn-blog-yellowgreen)](https://blog.csdn.net/weixin_44420955/)
+
 ## All Paper
 
 - [顶会顶刊](./paper/README.md)
